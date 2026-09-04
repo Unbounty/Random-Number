@@ -1,0 +1,6 @@
+import random
+
+a = 1
+b = 10
+c = random.randrange(a,b)
+print(c)
